@@ -1,4 +1,4 @@
--- outbound_dnc_daily_summary.sql
+-- outbound_do_not_call_daily_summary.sql
 -- Purpose:
 --   Summarize daily contact-level compliance flags by date and state group.
 --   Designed to be consumed by BI tools (e.g., Power BI) for monitoring.
